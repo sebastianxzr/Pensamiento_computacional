@@ -3,17 +3,17 @@ Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
 
-      TU RESPUESTA AQUI
+      Int
 
 NUMEROS DECIMALES: 
 
-      TU RESPUESTA AQUI
+      Float
 
 CARACTER : 
 
-      TU RESPUESTA AQUI
+      chair
 
 CADENA DE CARACTERES : 
 
-      TU RESPUESTA AQUI
+      string
     
