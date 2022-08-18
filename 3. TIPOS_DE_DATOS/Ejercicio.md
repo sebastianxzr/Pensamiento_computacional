@@ -11,7 +11,7 @@ NUMEROS DECIMALES:
 
 CARACTER : 
 
-      chair
+      char
 
 CADENA DE CARACTERES : 
 
