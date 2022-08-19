@@ -3,31 +3,45 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-      TU RESPUESTA AQUI
+     Flotante
 
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 
-      TU RESPUESTA AQUI
+      Entero
 
 ¿Qué tipo de dato debe tener una variable para contener el nombre de pila de una persona?
 
-      TU RESPUESTA AQUI
+      Cadena 
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-      TU RESPUESTA AQUI
+      Logica o boolena
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-      TU RESPUESTA AQUI
+      Flotante
       
 ## EJERCICIO 2
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
+      1. Inicio
+      2. Declarar periodo1 (float), periodo2 (float), periodo3 (float), periodo4 (float), materia (string), promedio (float)
+      3. Mostrar: "ingresa la materia que quieres promediar"
+      4. asignar materia
+      5. Mostrar: "ingresa la calificacion del periodo1"
+      6. Asignar promedio1
+      7. Mostrar: "ingresa la calificacion del periodo2"
+      8. Asignar promedio2
+      9. Mostrar: "ingresa la calificacion del periodo3"
+      10. Asignar promedio3
+      11. Mostrar: "ingresa la calificacion del periodo4"
+      12. Asignar promedio4
+      13. promedio = (promedio1 + promedio2 + promedio3 + promedio4)/4
+      14. mostrar "el promedio de ",materia," es ",promedio
+      15. Fin
       
       
 ## EJERCICIO 3
