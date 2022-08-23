@@ -1,7 +1,18 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 
-        AQUI TU ALGORITMO Y DIAGRMA DE FLUJO
+       1. Inicio
+       2. declarar numero (float), resultado (float), multi (int)
+       3. multi = 9
+       4. Mostrar: "ingrese un numero"
+       5. asignar numero
+       6. resultado = multi * numero 
+       7. mostar resultado 
+       8. Fin
+      
+      
+      ![imagen](https://user-images.githubusercontent.com/77649288/186204299-65d773de-9f9f-47c6-ba44-a6e7bcbb6a90.png)
+
    
     
 
